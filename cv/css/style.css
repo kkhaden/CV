@@ -1,16 +1,16 @@
 @font-face{
     font-family: retro;
-    src: url("../fonts/MS-Sans-Serif.ttf");
+    src: url(../fonts/MS-Sans-Serif.ttf);
 }
 
 @font-face{
     font-family: roboto;
-    src: url("../fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf");
+    src: url(../fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf);
 }
 
 @font-face{
     font-family: syncopate;
-    src: url("../fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf");
+    src: url(../fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf);
 }
 
 
