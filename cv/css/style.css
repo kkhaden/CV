@@ -1,23 +1,23 @@
 @font-face{
     font-family: retro;
-    src: url(cv/fonts/MS-Sans-Serif.ttf);
+    src: url(fonts/MS-Sans-Serif.ttf);
 }
 
 @font-face{
     font-family: roboto;
-    src: url(cv/fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf)
+    src: url(fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf)
 }
 
 @font-face{
     font-family: syncopate;
-    src: url(cv/fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf)
+    src: url(fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf)
 }
 
 
   
 body{
     margin: 0;
-    background-image: url(cv/images/windows_xp.jpeg);
+    background-image: url(images/windows_xp.jpeg);
     background-repeat: repeat-x;
     background-size: cover;
     width: 100%;
@@ -260,7 +260,7 @@ footer a:hover{
     width: auto;
     min-width: 1000px;
     max-width: 1250px;
-    background-image: url("cv/images/vaporwave_background2.jpeg");
+    background-image: url("images/vaporwave_background2.jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -322,7 +322,7 @@ footer a:hover{
 .card{
     max-width: 1000px;
     width: auto;
-    background-image: url("cv/images/vaporwave_background3.jpeg");
+    background-image: url("images/vaporwave_background3.jpeg");
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
