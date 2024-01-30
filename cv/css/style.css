@@ -17,7 +17,7 @@
   
 body{
     margin: 0;
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fabc7news.com%2Fwindows-xp-operating-system-microsoft-bliss-background-sonoma-county-hillside%2F24994%2F&psig=AOvVaw2b9yIu5eHdyQ7vOcGaOyY1&ust=1706672363131000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCC9pGYhIQDFQAAAAAdAAAAABAE");
+    background-image: url("../images/windows_xp.jpeg");
     background-repeat: repeat-x;
     background-size: cover;
     width: 100%;
@@ -260,7 +260,7 @@ footer a:hover{
     width: auto;
     min-width: 1000px;
     max-width: 1250px;
-    background-image: url("images/vaporwave_background2.jpeg");
+    background-image: url("../images/vaporwave_background2.jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
