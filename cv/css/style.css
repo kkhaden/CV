@@ -17,7 +17,7 @@
   
 body{
     margin: 0;
-    background-image: url(images/windows_xp.jpeg);
+    background-image: url("images/windows_xp.jpeg");
     background-repeat: repeat-x;
     background-size: cover;
     width: 100%;
