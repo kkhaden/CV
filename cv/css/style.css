@@ -5,12 +5,12 @@
 
 @font-face{
     font-family: roboto;
-    src: url(fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf)
+    src: url(fonts/Roboto_Mono_Syncopate/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf);
 }
 
 @font-face{
     font-family: syncopate;
-    src: url(fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf)
+    src: url(fonts/Roboto_Mono_Syncopate/Syncopate/Syncopate-Bold.ttf);
 }
 
 
@@ -21,7 +21,7 @@ body{
     background-repeat: repeat-x;
     background-size: cover;
     width: 100%;
-    background-color: #008080 ;
+    background-color: #008080;
     font-family: retro;
     max-width: 1250px;
 }
